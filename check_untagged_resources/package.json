@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+        "aws-sdk": "^2.666.0",
+        "inquirer": "^8.2.2",
+        "lodash": "^4.17.15",
+        "moment": "^2.24.0",
+        "moment-timezone": "^0.5.27",
+        "node-uuid": ">= 1.4.1",
+        "prompt": "^1.2.2"
+    }
+}
